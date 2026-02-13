@@ -6,3 +6,6 @@ function getName(name){
 function getRoll(){
   return 'roll number';
 }
+function feature(){
+  return 'screen';
+}
